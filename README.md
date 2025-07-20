@@ -94,7 +94,7 @@ Here’s a quick look at the Snake Game in action:
 
 #### In-Game Action
 
-![Gameplay](gameplay1.jpg)
+![Gameplay](gamplay1.jpg)
 
 #### Game Over Screen
 
