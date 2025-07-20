@@ -85,17 +85,22 @@ Here’s a quick look at the Snake Game in action:
 
 ### 📸 Screenshots
 
+#### Loading
+
+![Loading](loading.png)
+
 #### Main Menu
 
-![Main Menu](screenshot1.png)
+![Main Menu](mainmenu.png)
 
 #### In-Game Action
 
-![Gameplay](screenshot2.png)
+![Gameplay](gameplay1.png)
 
 #### Game Over Screen
 
-![Game Over](screenshot3.png)
+![Game Over](s2.png)
+![Game Over](s3.png)
 
 ---
 
