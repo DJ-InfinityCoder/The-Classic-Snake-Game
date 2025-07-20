@@ -53,8 +53,8 @@ Example folder path:
 
 All player scores with names and timestamps are saved in a local file:
 
-```txt
-Game_Records.txt
+
+**Game_Records.txt**
     
 # 📘 Function Reference Table
 
@@ -69,7 +69,6 @@ Game_Records.txt
 | `gotoxy()`           | Moves console cursor to (x, y)    |
 | `hideCursor()`       | Hides blinking console cursor     |
 | `setConsoleColor()`  | Sets text color in console        |
-```
 
 ## 🎥 Demo
 
